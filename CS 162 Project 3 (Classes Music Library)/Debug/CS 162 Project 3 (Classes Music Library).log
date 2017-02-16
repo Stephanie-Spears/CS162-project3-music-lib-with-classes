@@ -1,0 +1,32 @@
+﻿  ClassImplementation.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(1021): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,const _Ty &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(983): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(973): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(966): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(959): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(952): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(913): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(866): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(826): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(779): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(741): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'const Song'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream(694): note: see declaration of 'std::operator <<'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 project 3 (classes music library)\cs 162 project 3 (classes music library)\classimplementation.cpp(45): error C2676: binary '<<': 'const Song' does not define this operator or a conversion to a type acceptable to the predefined operator
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  FunctionsImplementation.cpp
